@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "https://www.nft-maker-starter-project.vercel.app/(.*)",
+      "destination": "https://nft-maker-starter-project.vercel.app/$1",
+      "statusCode": 301
+    }
+  ]
+}
